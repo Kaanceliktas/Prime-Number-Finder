@@ -1,4 +1,4 @@
-# Prime-Number-Finder
+# Prime Number Finder
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - This programme created for the finding prime number. You can easily run the code and understand the code from comments.
